@@ -1,5 +1,9 @@
 [
   {
+    "package": "lmerTest",
+    "oncran": true
+  },
+  {
     "package": "ordinal",
     "oncran": true
   }
