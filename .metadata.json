@@ -1,10 +1,10 @@
 [
   {
-    "package": "ordinal",
+    "package": "lmerTest",
     "oncran": true
   },
   {
-    "package": "lmerTest",
+    "package": "ordinal",
     "oncran": true
   }
 ]
