@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "lmerTest"]
-	path = lmerTest
-	url = https://github.com/runehaubo/lmertestr
-	shallow = true
-	registered = true
 [submodule "ordinal"]
 	path = ordinal
 	url = https://github.com/runehaubo/ordinal
+	shallow = true
+	registered = true
+[submodule "lmerTest"]
+	path = lmerTest
+	url = https://github.com/runehaubo/lmertestr
 	shallow = true
 	registered = true
